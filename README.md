@@ -1,7 +1,7 @@
 # Password Generator
 #### Password Generator Project for UofR Full Stack Bootcamp Due: DEC 19th 2021
 #### * Grader Please Note * I added a UI to replace prompts with Slider and Toggles.
-## Link to Live Project : 
+## Link to Live Project : https://haguermeister.github.io/password-generator/
 ## Screenshot of Project Below :
 ![alt text](./assets/images/Screenshot.png)
 ## User Story :
