@@ -40,7 +40,7 @@ function generatePassword(charValues) {
     charAvail += characters.numb;
   }
   if(!charValues.lowercase && !charValues.uppercase && !charValues.special && !charValues.numb){
-    alert('No characters selected : Try Again');
+    alert('No character type selected : Try Again');
   }
   console.log(charAvail);
 
